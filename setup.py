@@ -11,7 +11,7 @@ setuptools.setup(
     description="An python package for instagram giveaways",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/konoikon/instagiveaway",
+    url="https://github.com/konoikon/insta-giveaway",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
